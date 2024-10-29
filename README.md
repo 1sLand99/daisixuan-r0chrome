@@ -70,7 +70,7 @@
           - 导入插件到chrome
             - ![screenshot](imgs/extension1.png)
             - ![screenshot](imgs/extension2.png)
-          - 下载r0chrome项目 导入extension文件夹
+          - 下载项目 导入extension文件夹
             - ![screenshot](imgs/extension3.png)
           - 导入插件成功
             - ![screenshot](imgs/extension4.png)
@@ -114,7 +114,6 @@
     - 更新其他全局对象监控
 
 - # 联系我们
-    - #### 加v：r0ysue 进浏览器指纹随机定制群
     - #### 作者v: lenganlan
 
 - # 感谢支持!!
